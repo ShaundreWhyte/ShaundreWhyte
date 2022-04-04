@@ -11,8 +11,6 @@
 ## 🚀 Skills:
 
 <p align="left">
-      <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-      </a>
 
      <a href="https://css3.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
      <a href="https://html.com/html5/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
