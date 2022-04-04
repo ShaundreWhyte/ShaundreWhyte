@@ -6,10 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-
 - 🌱 I’m currently learning **Angular & Pyton **
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **ShaundreWhyte@gmail.com**
 
