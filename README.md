@@ -1,18 +1,14 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shaundre Whyte </h1>
-<h3 align="center">I'm a  Junior Software Engineer.</h3>
+<h3 align="center">I'm a  Junior Software Engineer.Thank you for visiting my Github profile.</h3>
 <br/>
 
-
-## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **Angular & Pyton **
 
 - 📫 How to reach me **ShaundreWhyte@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-
-## 🚀 Languages and Tools:
+## 🚀 Skills:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
