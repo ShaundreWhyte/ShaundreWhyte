@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shaundre Whyte </h1>
-<h3 align="center">I'm a  Junior Software Engineer.Thank you for visiting my Github profile.</h3>
+<h3 align="center">I'm a   front end developer.Thank you for visiting my Github profile.</h3>
 <br/>
 
 
