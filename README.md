@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Shaundre Whyte </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px" height="10px">, I'm Shaundre Whyte </h1>
 <h3 align="center">I'm a  junior front end developer.Thank you for visiting my Github profile.</h3>
 <br/>
 
